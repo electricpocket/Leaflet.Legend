@@ -18,9 +18,6 @@
 .legend-container .legend-toggle-icon {
   /*optionally use an icon image for the toggle button*/
   /*background: url('images/layers.png') no-repeat center center;*/
-    display: block;
-    margin-left: auto;
-    margin-right: auto
 }
 .legend-collapsed #shiplegend {
   display: none;
