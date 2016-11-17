@@ -1,4 +1,4 @@
-.legend-container #legend {
+.legend-container #shiplegend {
   background-color: rgba(255, 255, 255, 1.0);
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -19,7 +19,7 @@
   /*optionally use an icon image for the toggle button*/
   /*background: url('images/layers.png') no-repeat center center;*/
 }
-.legend-collapsed #legend {
+.legend-collapsed #shiplegend {
   display: none;
 }
 .legend-collapsed .legend-toggle {
